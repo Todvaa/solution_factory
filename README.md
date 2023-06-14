@@ -62,7 +62,7 @@ MESSAGE_SERVICE_URL=https://probe.fbrq.cloud/v1/send/
 ## Stack
 - Django
 - Celery
--Flower
+- Flower
 - Redis
 - PostgreSQL
 ## Description
