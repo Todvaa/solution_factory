@@ -1,0 +1,1 @@
+SHOWN_LENGTH = 15

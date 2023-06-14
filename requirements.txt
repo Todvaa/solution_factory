@@ -1,0 +1,10 @@
+Django==3.2.19
+djangorestframework==3.14.0
+python-dotenv==0.21.1
+psycopg2-binary==2.9.6
+celery==5.3
+importlib-metadata==4.13.0
+requests==2.31.0
+redis==4.5.5
+flower==1.2.0
+drf_yasg==1.21.5
